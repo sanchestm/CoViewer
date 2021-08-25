@@ -2,6 +2,7 @@
 free SARS-CoV-2 dashboard for small datasets
 
 ### Try on binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sanchestm/CoViewer/HEAD)
 #### Cloud access: slower and might break with large files (504 error)
 
 1. **Click on lauch binder link**
